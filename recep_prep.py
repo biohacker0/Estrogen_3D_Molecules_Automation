@@ -26,6 +26,12 @@ def add_hydrogens(input_pdb, output_pdb):
     mol = Chem.AddHs(mol)
     Chem.MolToPDBFile(mol, output_pdb)
 
+def remove_water(input_pdb, output_pdb):
+    with open(input_pdb, 'r') as infile, open(output_pdb, 'w') as outfile:
+        for line in infile:
+            if not line.startswith('HETATM') or 'HOH' not in line[17:20]:
+                outfile.write(line)
+
 # Step 3: Convert Receptor PDB to PDBQT Using Open Babel
 def convert_to_pdbqt(input_pdb, output_pdbqt):
     obabel_command = 'obabel'
@@ -41,11 +47,15 @@ if __name__ == "__main__":
     output_pdb_file = "apo_receptor.pdb"  # Output apo receptor PDB file name
     output_pdbqt_file = "apo_receptor.pdbqt"  # Output apo receptor PDBQT file name
 
+    # Call the remove_water function before other steps
+    remove_water(output_pdb_file, output_pdb_file)
+
     # Step 1: Remove Ligand (ESTRADIOL)
     remove_ligand(input_pdb_file, output_pdb_file)
 
     # Step 2: Add Missing Hydrogen Atoms
     add_hydrogens(output_pdb_file, output_pdb_file)
+
 
     # Step 3: Convert to PDBQT Using Open Babel
     convert_to_pdbqt(output_pdb_file, output_pdbqt_file)
