@@ -1,0 +1,130 @@
+[
+    {
+        "SMILES": "C[C@]12CC[C@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O",
+        "Image": "isomer_1.png"
+    },
+    {
+        "SMILES": "C[C@@]12CC[C@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O",
+        "Image": "isomer_2.png"
+    },
+    {
+        "SMILES": "C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O",
+        "Image": "isomer_3.png"
+    },
+    {
+        "SMILES": "C[C@@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O",
+        "Image": "isomer_4.png"
+    },
+    {
+        "SMILES": "C[C@]12CC[C@H]3c4ccc(O)cc4CC[C@@H]3[C@@H]1CC[C@@H]2O",
+        "Image": "isomer_5.png"
+    },
+    {
+        "SMILES": "C[C@@]12CC[C@H]3c4ccc(O)cc4CC[C@@H]3[C@@H]1CC[C@@H]2O",
+        "Image": "isomer_6.png"
+    },
+    {
+        "SMILES": "C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@@H]3[C@@H]1CC[C@@H]2O",
+        "Image": "isomer_7.png"
+    },
+    {
+        "SMILES": "C[C@@]12CC[C@@H]3c4ccc(O)cc4CC[C@@H]3[C@@H]1CC[C@@H]2O",
+        "Image": "isomer_8.png"
+    },
+    {
+        "SMILES": "C[C@]12CC[C@H]3c4ccc(O)cc4CC[C@H]3[C@H]1CC[C@@H]2O",
+        "Image": "isomer_9.png"
+    },
+    {
+        "SMILES": "C[C@@]12CC[C@H]3c4ccc(O)cc4CC[C@H]3[C@H]1CC[C@@H]2O",
+        "Image": "isomer_10.png"
+    },
+    {
+        "SMILES": "C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@H]1CC[C@@H]2O",
+        "Image": "isomer_11.png"
+    },
+    {
+        "SMILES": "C[C@@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@H]1CC[C@@H]2O",
+        "Image": "isomer_12.png"
+    },
+    {
+        "SMILES": "C[C@]12CC[C@H]3c4ccc(O)cc4CC[C@@H]3[C@H]1CC[C@@H]2O",
+        "Image": "isomer_13.png"
+    },
+    {
+        "SMILES": "C[C@@]12CC[C@H]3c4ccc(O)cc4CC[C@@H]3[C@H]1CC[C@@H]2O",
+        "Image": "isomer_14.png"
+    },
+    {
+        "SMILES": "C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@@H]3[C@H]1CC[C@@H]2O",
+        "Image": "isomer_15.png"
+    },
+    {
+        "SMILES": "C[C@@]12CC[C@@H]3c4ccc(O)cc4CC[C@@H]3[C@H]1CC[C@@H]2O",
+        "Image": "isomer_16.png"
+    },
+    {
+        "SMILES": "C[C@]12CC[C@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@H]2O",
+        "Image": "isomer_17.png"
+    },
+    {
+        "SMILES": "C[C@@]12CC[C@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@H]2O",
+        "Image": "isomer_18.png"
+    },
+    {
+        "SMILES": "C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@H]2O",
+        "Image": "isomer_19.png"
+    },
+    {
+        "SMILES": "C[C@@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@H]2O",
+        "Image": "isomer_20.png"
+    },
+    {
+        "SMILES": "C[C@]12CC[C@H]3c4ccc(O)cc4CC[C@@H]3[C@@H]1CC[C@H]2O",
+        "Image": "isomer_21.png"
+    },
+    {
+        "SMILES": "C[C@@]12CC[C@H]3c4ccc(O)cc4CC[C@@H]3[C@@H]1CC[C@H]2O",
+        "Image": "isomer_22.png"
+    },
+    {
+        "SMILES": "C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@@H]3[C@@H]1CC[C@H]2O",
+        "Image": "isomer_23.png"
+    },
+    {
+        "SMILES": "C[C@@]12CC[C@@H]3c4ccc(O)cc4CC[C@@H]3[C@@H]1CC[C@H]2O",
+        "Image": "isomer_24.png"
+    },
+    {
+        "SMILES": "C[C@]12CC[C@H]3c4ccc(O)cc4CC[C@H]3[C@H]1CC[C@H]2O",
+        "Image": "isomer_25.png"
+    },
+    {
+        "SMILES": "C[C@@]12CC[C@H]3c4ccc(O)cc4CC[C@H]3[C@H]1CC[C@H]2O",
+        "Image": "isomer_26.png"
+    },
+    {
+        "SMILES": "C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@H]1CC[C@H]2O",
+        "Image": "isomer_27.png"
+    },
+    {
+        "SMILES": "C[C@@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@H]1CC[C@H]2O",
+        "Image": "isomer_28.png"
+    },
+    {
+        "SMILES": "C[C@]12CC[C@H]3c4ccc(O)cc4CC[C@@H]3[C@H]1CC[C@H]2O",
+        "Image": "isomer_29.png"
+    },
+    {
+        "SMILES": "C[C@@]12CC[C@H]3c4ccc(O)cc4CC[C@@H]3[C@H]1CC[C@H]2O",
+        "Image": "isomer_30.png"
+    },
+    {
+        "SMILES": "C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@@H]3[C@H]1CC[C@H]2O",
+        "Image": "isomer_31.png"
+    },
+    {
+        "SMILES": "C[C@@]12CC[C@@H]3c4ccc(O)cc4CC[C@@H]3[C@H]1CC[C@H]2O",
+        "Image": "isomer_32.png"
+    }
+]
